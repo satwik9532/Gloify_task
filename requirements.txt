@@ -3,7 +3,6 @@ streamlit==0.71.0
 opencv-contrib-python-headless==4.4.0.46
 numpy==1.18.5
 Pillow==8.0.1
-h5py<3.0.0
 urllib3
 beautifulsoup4
 google-search
