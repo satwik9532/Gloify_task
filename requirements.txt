@@ -8,3 +8,4 @@ beautifulsoup4
 google-search
 scikit-learn>=0.18
 requests
+heroku-builds
