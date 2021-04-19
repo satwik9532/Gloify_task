@@ -8,5 +8,4 @@ urllib3
 beautifulsoup4
 google-search
 scikit-learn>=0.18
-opencv-python
 requests
