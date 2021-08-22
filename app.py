@@ -15,7 +15,7 @@ from googlesearch import search
 def load_model():
     model=MobileNetV2()
     return model
-
+# rachit
 st.title("welcome to Image Searcher")
 
 st.write("Select Search option from below drop down option")
